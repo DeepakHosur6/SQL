@@ -1,7 +1,7 @@
 
 CREATE DATABASE gamesDay5;
 
-show databases;
+show databases
 
 use gamesDay5;
 
